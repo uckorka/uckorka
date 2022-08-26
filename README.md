@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @uckorka
+- 👀 I’m interested in programming, Data science and 3d-modeling
+- 🌱 I’m currently learning python
+- 📫 How to reach me gameruckorka@gmail.com
